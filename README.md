@@ -46,7 +46,7 @@ This implementation combines:
 
 ## Installation
 
-1.  **Clone the repository (if applicable):**
+1.  **Clone the repository :**
 
     ```bash
     git clone <repository_url>
